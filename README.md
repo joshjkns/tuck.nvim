@@ -5,6 +5,10 @@
 # Installation
 Using your preferred package manager import the repo:
 Commonly either `joshjkns/tuck.nvim` or `https://github.com/joshjkns/tuck.nvim`
+Then just require tuck in your configuration file:
+```lua
+require("tuck")
+```
 
 # Usage
 
