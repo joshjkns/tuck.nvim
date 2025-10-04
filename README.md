@@ -1,6 +1,9 @@
 ![banner](banner.png)
 
 # Tuck.nvim
+A simple way to surround text in neovim.
+
+https://github.com/user-attachments/assets/f855fcfa-4b2c-4895-b560-78f100966801
 
 # Installation
 Using your preferred package manager import the repo:
